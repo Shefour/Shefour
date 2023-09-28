@@ -8,3 +8,4 @@ I like making my life easier by learning new programming solutions, I'm looking 
 
 ### 📫 Reach me at 
 - Mail: main.shefour@protonmail.com
+- Ask me for my personal email for more serious stuff.
