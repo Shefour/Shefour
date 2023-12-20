@@ -1,5 +1,5 @@
-### 👋 Hi there 
-I like making my life easier by learning new programming solutions, I'm looking forward to working on fun projects in the future.
+### 👋 Hello
+I like making my life easier
 
 <hr />
 
@@ -7,5 +7,4 @@ I like making my life easier by learning new programming solutions, I'm looking 
 <img src="https://profile-counter.glitch.me/shefour/count.svg" />
 
 ### 📫 Reach me at 
-- Mail: main.shefour@protonmail.com
-- Ask me for my personal email for more serious stuff.
+- Contact mail: kornel.olkowski@proton.me
