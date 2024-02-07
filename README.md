@@ -1,5 +1,6 @@
 ### 👋 Hello
 I like making my life easier
+I translate some stuff for Proton
 
 <hr />
 
