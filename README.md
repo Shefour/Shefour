@@ -1,5 +1,5 @@
 ### 👋 Hello
-I like making my life easier
+I like making my life easier<br>
 I translate some stuff for Proton
 
 <hr />
